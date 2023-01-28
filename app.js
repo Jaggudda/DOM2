@@ -4,3 +4,4 @@ const mains = document.getElementById('main');
 header.style.borderBottom = 'solid 3px #000';
 header.style.fontWeight = 'bold';*/
 console.log("document12");
+console.log("domain");
