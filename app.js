@@ -1,7 +1,6 @@
-/*const title = document.getElementById('header-title');
-const header = document.getElementById('main-header');
-const mains = document.getElementById('main');
-header.style.borderBottom = 'solid 3px #000';
-header.style.fontWeight = 'bold';*/
-console.log("document12");
+// document.getElementsByClassName("list-group-item").style.backgroundColor="blue";
 console.log("domain");
+
+
+var item3 = document.getElementById("items").getElementsByTagName("li")[2];
+item3.style.color = "green";
